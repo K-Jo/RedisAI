@@ -150,4 +150,3 @@ gcc -I${LIBTORCH_C_DIRECTORY}/include \
 cd ${BASE_DIRECTORY}
 
 echo "Done"
-
